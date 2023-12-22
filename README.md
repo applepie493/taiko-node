@@ -1,1 +1,8 @@
 # taiko-node
+
+## 1.リポリトジの複製
+```
+git clone https://github.com/taikoxyz/simple-taiko-node.git
+cd simple-taiko-node
+```
+
